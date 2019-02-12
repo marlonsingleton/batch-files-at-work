@@ -1,3 +1,5 @@
+:: psexec required
+
 @echo off
 set path=%~dp0
 set /p computerlist="Enter filename: "
